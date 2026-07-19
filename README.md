@@ -49,7 +49,7 @@
 <br>
 
 ```sh
-git clone https://github.com/SarveshhRathod/FileStreamBot
+git clone https://github.com/SarveshhRathod/CinioStreamBot
 cd CinioStreamBot
 python3 -m venv ./venv
 . ./venv/bin/activate
